@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **thilinaabey02@gmail.com**
 
-- ⚡ Fun fact **T think I just exist.**
+- ⚡ Fun fact **I think I just exist.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

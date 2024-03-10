@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently learning **react js**
 
 - 💬 Ask me about **WordPress, Shopify and Ghost CMS**
 

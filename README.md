@@ -4,7 +4,6 @@
 
 
 
-
 - 💬 Ask me about **WordPress, Shopify and Ghost CMS**
 
 - 📫 How to reach me **thilinaabey02@gmail.com**

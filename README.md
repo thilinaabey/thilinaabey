@@ -16,7 +16,7 @@
  
  🌱 I’m currently learning **MERN**
 
-💬 Ask me about **React, WordPress, Ghost... or anything**
+💬 Ask me about **React, WordPress, Ghost, Shopify... or anything**
 
 ⚡ Fun fact **I think I doesn't exist**
 

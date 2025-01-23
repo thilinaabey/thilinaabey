@@ -68,7 +68,11 @@
 <br/>
 
 <div align="center">
-<a href="https://www.buymeacoffee.com/thilinaabey" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<h2 align="center">💼 Hire Me 💼</h2>
+<a href="https://www.fiverr.com/thilinaabey" target="blank"><img align="center" src="fiverr.svg" alt="fiverr" height="27" /></a>
+ㅤㅤㅤ
+
+<p align="center">
 
 </div>
 

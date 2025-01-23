@@ -14,7 +14,7 @@
 <div align="center">
  
  
- 🌱 I’m currently learning **React**
+ 🌱 I’m currently learning **MERN**
 
 💬 Ask me about **React, WordPress, Ghost... or anything**
 

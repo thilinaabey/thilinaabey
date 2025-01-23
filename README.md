@@ -69,7 +69,7 @@
 
 <div align="center">
 <h2 align="center">💼 Hire Me 💼</h2>
-<a href="https://www.fiverr.com/thilinaabey" target="blank"><img align="center" src="fiverr.svg" alt="fiverr" height="27" /></a>
+<a href="https://www.fiverr.com/thilinaabey" target="blank"><img align="center" src="fiverr.jpg" alt="fiverr" height="27" /></a>
 ㅤㅤㅤ
 
 <p align="center">
